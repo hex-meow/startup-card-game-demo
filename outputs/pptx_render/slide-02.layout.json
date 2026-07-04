@@ -1,0 +1,721 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/3do406",
+    "id": "3do406",
+    "slide": 2,
+    "layoutId": "fdc71912-95bb-4f7c-a6ac-c2afb9ae3762",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "fdc71912-95bb-4f7c-a6ac-c2afb9ae3762",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83itgfml",
+      "id": "1",
+      "bbox": [
+        42,
+        36,
+        280,
+        28
+      ],
+      "geometry": "rect",
+      "text": "创业故事卡牌",
+      "textPreview": "创业故事卡牌",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#555555",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "创业故事卡牌"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "创业故事卡牌",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#555555",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "创业故事卡牌",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#555555",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fil0rqd4",
+      "id": "2",
+      "bbox": [
+        42,
+        74,
+        900,
+        64
+      ],
+      "geometry": "rect",
+      "text": "这个原型把创业过程拆成可玩的资源决策",
+      "textPreview": "这个原型把创业过程拆成可玩的资源决策",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "这个原型把创业过程拆成可玩的资源决策"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "这个原型把创业过程拆成可玩的资源决策",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "这个原型把创业过程拆成可玩的资源决策",
+              "fontSize": 40,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qxs72x4n",
+      "id": "3",
+      "bbox": [
+        42,
+        156,
+        1196,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "4",
+      "bbox": [
+        42,
+        210,
+        360,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "5",
+      "bbox": [
+        66,
+        232,
+        312,
+        34
+      ],
+      "geometry": "rect",
+      "text": "玩家做什么",
+      "textPreview": "玩家做什么",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "玩家做什么"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "玩家做什么",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "玩家做什么",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fu18jqh0",
+      "id": "6",
+      "bbox": [
+        66,
+        278,
+        312,
+        194
+      ],
+      "geometry": "rect",
+      "text": "选择路线、配置起点、打出卡牌、处理事件、买卡成长，最终完成发售。",
+      "textPreview": "选择路线、配置起点、打出卡牌、处理事件、买卡成长，最终完成发售。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "选择路线、配置起点、打出卡牌、处"
+          },
+          {
+            "index": 2,
+            "text": "理事件、买卡成长，最终完成发售。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "选择路线、配置起点、打出卡牌、处理事件、买卡成长，最终完成发售。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "选择路线、配置起点、打出卡牌、处理事件、买卡成长，最终完成发售。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m94fu18j",
+      "id": "7",
+      "bbox": [
+        460,
+        210,
+        360,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "8",
+      "bbox": [
+        484,
+        232,
+        312,
+        34
+      ],
+      "geometry": "rect",
+      "text": "系统表达什么",
+      "textPreview": "系统表达什么",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "系统表达什么"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "系统表达什么",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "系统表达什么",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "9",
+      "bbox": [
+        484,
+        278,
+        312,
+        194
+      ],
+      "geometry": "rect",
+      "text": "时间是血量，资金是成长资源，敌人血条是阶段核心工作，事件是外部环境。",
+      "textPreview": "时间是血量，资金是成长资源，敌人血条是阶段核心工作，事件是外部环境。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "时间是血量，资金是成长资源，敌人"
+          },
+          {
+            "index": 2,
+            "text": "血条是阶段核心工作，事件是外部环"
+          },
+          {
+            "index": 3,
+            "text": "境。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "时间是血量，资金是成长资源，敌人血条是阶段核心工作，事件是外部环境。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "时间是血量，资金是成长资源，敌人血条是阶段核心工作，事件是外部环境。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "10",
+      "bbox": [
+        878,
+        210,
+        360,
+        280
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "11",
+      "bbox": [
+        902,
+        232,
+        312,
+        34
+      ],
+      "geometry": "rect",
+      "text": "内容有什么",
+      "textPreview": "内容有什么",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "内容有什么"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "内容有什么",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "内容有什么",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "12",
+      "bbox": [
+        902,
+        278,
+        312,
+        194
+      ],
+      "geometry": "rect",
+      "text": "三条通用创业赛道，加一条基于 2007 年真实时间线的初代 iPhone 故事线。",
+      "textPreview": "三条通用创业赛道，加一条基于 2007 年真实时间线的初代 iPhone 故事线。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "三条通用创业赛道，加一条基于"
+          },
+          {
+            "index": 2,
+            "text": "2007 年真实时间线的初代 iPhone"
+          },
+          {
+            "index": 3,
+            "text": "故事线。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "三条通用创业赛道，加一条基于 2007 年真实时间线的初代 iPhone 故事线。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "三条通用创业赛道，加一条基于 2007 年真实时间线的初代 iPhone 故事线。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "13",
+      "bbox": [
+        1188,
+        660,
+        50,
+        28
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#555555",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#555555",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#555555",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

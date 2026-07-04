@@ -1,0 +1,1008 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/z9r9ka",
+    "id": "z9r9ka",
+    "slide": 6,
+    "layoutId": "fdc71912-95bb-4f7c-a6ac-c2afb9ae3762",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Microsoft YaHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "fdc71912-95bb-4f7c-a6ac-c2afb9ae3762",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "e5939834-5142-4e7e-94ea-d47f57a3ca55",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "1",
+      "bbox": [
+        42,
+        36,
+        280,
+        28
+      ],
+      "geometry": "rect",
+      "text": "创业故事卡牌",
+      "textPreview": "创业故事卡牌",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#555555",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "创业故事卡牌"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "创业故事卡牌",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#555555",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "创业故事卡牌",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#555555",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gbq1ory",
+      "id": "2",
+      "bbox": [
+        42,
+        74,
+        900,
+        64
+      ],
+      "geometry": "rect",
+      "text": "对战用清晰数值把创业压力变成回合决策",
+      "textPreview": "对战用清晰数值把创业压力变成回合决策",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对战用清晰数值把创业压力变成回合决策"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对战用清晰数值把创业压力变成回合决策",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "对战用清晰数值把创业压力变成回合决策",
+              "fontSize": 40,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvixczed",
+      "id": "3",
+      "bbox": [
+        42,
+        156,
+        1196,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nyd0z610",
+      "id": "4",
+      "bbox": [
+        42,
+        205,
+        270,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/udg7adsj",
+      "id": "5",
+      "bbox": [
+        66,
+        227,
+        222,
+        34
+      ],
+      "geometry": "rect",
+      "text": "玩家时间",
+      "textPreview": "玩家时间",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "玩家时间"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "玩家时间",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "玩家时间",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zidony",
+      "id": "6",
+      "bbox": [
+        66,
+        273,
+        222,
+        64
+      ],
+      "geometry": "rect",
+      "text": "玩家血量。敌人攻击会扣减时间，归零失败。",
+      "textPreview": "玩家血量。敌人攻击会扣减时间，归零失败。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "玩家血量。敌人攻击会扣"
+          },
+          {
+            "index": 2,
+            "text": "减时间，归零失败。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "玩家血量。敌人攻击会扣减时间，归零失败。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "玩家血量。敌人攻击会扣减时间，归零失败。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj6tovah",
+      "id": "7",
+      "bbox": [
+        344,
+        205,
+        270,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "8",
+      "bbox": [
+        368,
+        227,
+        222,
+        34
+      ],
+      "geometry": "rect",
+      "text": "资金",
+      "textPreview": "资金",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "资金"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "资金",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "资金",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9knih4b",
+      "id": "9",
+      "bbox": [
+        368,
+        273,
+        222,
+        64
+      ],
+      "geometry": "rect",
+      "text": "打出部分卡牌、商店买牌和路线成长的资源。",
+      "textPreview": "打出部分卡牌、商店买牌和路线成长的资源。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "打出部分卡牌、商店买牌"
+          },
+          {
+            "index": 2,
+            "text": "和路线成长的资源。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "打出部分卡牌、商店买牌和路线成长的资源。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "打出部分卡牌、商店买牌和路线成长的资源。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "10",
+      "bbox": [
+        646,
+        205,
+        270,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "11",
+      "bbox": [
+        670,
+        227,
+        222,
+        34
+      ],
+      "geometry": "rect",
+      "text": "敌人血条",
+      "textPreview": "敌人血条",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "敌人血条"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "敌人血条",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "敌人血条",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "12",
+      "bbox": [
+        670,
+        273,
+        222,
+        64
+      ],
+      "geometry": "rect",
+      "text": "阶段核心工作剩余量。清空即完成该阶段。",
+      "textPreview": "阶段核心工作剩余量。清空即完成该阶段。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "阶段核心工作剩余量。清"
+          },
+          {
+            "index": 2,
+            "text": "空即完成该阶段。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "阶段核心工作剩余量。清空即完成该阶段。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "阶段核心工作剩余量。清空即完成该阶段。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "13",
+      "bbox": [
+        948,
+        205,
+        270,
+        150
+      ],
+      "geometry": "rect",
+      "fillColor": "#EDEDED",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "14",
+      "bbox": [
+        972,
+        227,
+        222,
+        34
+      ],
+      "geometry": "rect",
+      "text": "回合限制",
+      "textPreview": "回合限制",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "回合限制"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "回合限制",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "回合限制",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "15",
+      "bbox": [
+        972,
+        273,
+        222,
+        64
+      ],
+      "geometry": "rect",
+      "text": "在规定回合内完成，否则项目超期失败。",
+      "textPreview": "在规定回合内完成，否则项目超期失败。",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "Microsoft YaHei",
+        "color": "#222222",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "在规定回合内完成，否则"
+          },
+          {
+            "index": 2,
+            "text": "项目超期失败。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "在规定回合内完成，否则项目超期失败。",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft YaHei",
+            "color": "#222222",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "在规定回合内完成，否则项目超期失败。",
+              "fontSize": 18,
+              "typeface": "Microsoft YaHei",
+              "color": "#222222",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "16",
+      "bbox": [
+        42,
+        430,
+        1196,
+        100
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F7F7",
+      "lineColor": "#B8BCC4",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "17",
+      "bbox": [
+        72,
+        456,
+        220,
+        30
+      ],
+      "geometry": "rect",
+      "text": "常用战斗状态",
+      "textPreview": "常用战斗状态",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Microsoft YaHei",
+        "color": "#FF6B35",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "常用战斗状态"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "常用战斗状态",
+          "resolvedTextStyle": {
+            "fontSize": 24,
+            "typeface": "Microsoft YaHei",
+            "color": "#FF6B35",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "常用战斗状态",
+              "fontSize": 24,
+              "typeface": "Microsoft YaHei",
+              "color": "#FF6B35",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4nap4r65",
+      "id": "18",
+      "bbox": [
+        300,
+        452,
+        840,
+        44
+      ],
+      "geometry": "rect",
+      "text": "时间缓冲抵消伤害；推进加成提高后续输出；阻力抵消推进；压力提高敌人后续攻击。",
+      "textPreview": "时间缓冲抵消伤害；推进加成提高后续输出；阻力抵消推进；压力提高敌人后续攻击。",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "Microsoft YaHei",
+        "color": "#000000",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "时间缓冲抵消伤害；推进加成提高后续输出；阻力抵消推进；压力提高敌人后续攻击"
+          },
+          {
+            "index": 2,
+            "text": "。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "时间缓冲抵消伤害；推进加成提高后续输出；阻力抵消推进；压力提高敌人后续攻击。",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Microsoft YaHei",
+            "color": "#000000",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "时间缓冲抵消伤害；推进加成提高后续输出；阻力抵消推进；压力提高敌人后续攻击。",
+              "fontSize": 22,
+              "typeface": "Microsoft YaHei",
+              "color": "#000000",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t83itgfm",
+      "id": "19",
+      "bbox": [
+        1188,
+        660,
+        50,
+        28
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "Microsoft YaHei",
+        "color": "#555555",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Microsoft YaHei",
+            "color": "#555555",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 16,
+              "typeface": "Microsoft YaHei",
+              "color": "#555555",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

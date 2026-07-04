@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>创业故事卡牌</title>
+    <link rel="stylesheet" href="styles.css?v=card-theme-highlight-20260704">
+  </head>
+  <body>
+    <main id="app" class="game-shell"></main>
+
+    <div id="gameOverModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-panel">
+        <div class="modal-glyph" aria-hidden="true"></div>
+        <h2 id="modalTitle">阶段结束</h2>
+        <p id="modalText">结果</p>
+        <button id="modalActionBtn" class="primary-action" type="button">
+          <span aria-hidden="true">↻</span>
+          继续
+        </button>
+      </div>
+    </div>
+
+    <script src="app.js?v=card-theme-highlight-20260704"></script>
+  </body>
+</html>

@@ -114,7 +114,7 @@ def parse_tracks_and_traits():
     for block in sim.split_objs(sim.block_after("const tracks")):
         track_id = sim.sf(block, "id")
         track_name = sim.sf(block, "name")
-        route_type = "真实公司故事线" if "specialRoute: true" in block else "模拟创业路线"
+        route_type = "喵史映射路线" if "specialRoute: true" in block else "自由喵创路线"
         tracks.append(
             [
                 track_id,
@@ -207,11 +207,11 @@ sheets = [
             ["说明项", "内容"],
             ["用途", "按当前 app.js 真实 demo 数据预填的内容编辑器表格。"],
             ["来源", str(APP)],
-            ["最近用途", "同步游戏平衡调整后的 iPhone 参数。"],
+            ["最近用途", "同步喵喵世界观迁移后的默认参数。"],
         ],
     ),
     ("路线配置", [["路线ID", "路线名称", "路线类型", "简介", "初始时间", "初始资金", "难度系数"]] + tracks),
-    ("用户画像", [["路线ID", "路线名称", "画像ID", "画像名称", "标签", "时间修正", "资金修正", "难度修正"]] + traits),
+    ("猫群画像", [["路线ID", "路线名称", "画像ID", "画像名称", "标签", "时间修正", "资金修正", "难度修正"]] + traits),
     (
         "关卡参数",
         [
@@ -235,15 +235,15 @@ sheets = [
                 "是否最终关",
             ]
         ]
-        + stage_rows("route_demo", "模拟创业路线", normal_stages)
-        + stage_rows("route_iphone", "初代 iPhone", iphone_stages),
+        + stage_rows("route_demo", "自由喵创路线", normal_stages)
+        + stage_rows("route_iphone", "初代喵掌机", iphone_stages),
     ),
     ("卡牌参数", card_rows),
     (
         "事件参数",
         [["事件ID", "事件名称", "事件类型", "触发路线", "历史日期", "效果数值"]]
-        + event_rows("模拟创业路线", "标准/随机事件", normal_events)
-        + event_rows("初代 iPhone", "历史时间线事件", iphone_events),
+        + event_rows("自由喵创路线", "标准/随机事件", normal_events)
+        + event_rows("初代喵掌机", "喵史时间线事件", iphone_events),
     ),
     (
         "敌人行动",
